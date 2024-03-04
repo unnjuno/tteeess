@@ -6,6 +6,8 @@ public class taedwadw {
     System.out.print("브랜치");
     System.out.print("브랜치 성공?");
 
+    int b;
+
 
     }
 }
