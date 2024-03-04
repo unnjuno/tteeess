@@ -5,7 +5,8 @@ public class taedwadw {
     System.out.println(53225252);
     System.out.print("test");
 
-    int adadad;
+    int adadad = 3;
+    System.out.println(adadad + 3);
 
     }
 }
