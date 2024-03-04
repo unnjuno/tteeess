@@ -5,5 +5,7 @@ public class taedwadw {
     System.out.println(53225252);
     System.out.print("test");
 
+    int a;
+
     }
 }
